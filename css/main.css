@@ -33,9 +33,7 @@ h1 {
 
 	font-size: 1.5em;
 	text-align: justify;
-/*
-	font-family: 'Stardos Stencil', cursive;
-*/
+
 }
 
 /*h1 { font-family: ‘Metrophobic’, Arial, serif; font-weight: 400; }*/
@@ -54,4 +52,12 @@ h1 {
 
 .slick-slide {
 	padding-left: 10px;
+}
+
+.Mail_List_Button {
+	font-size: 1.5em;
+}
+
+.social_icon_size {
+	1.5em;	
 }
