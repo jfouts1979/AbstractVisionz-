@@ -6,7 +6,7 @@ body {
 	padding-left: px;
 	text-align: center;
 	color: white;
-	background: url('/images/RainbowBrightTapestry.jpg');
+	background: url('/images/BlueGreenSpinningWheelTapestryAdjusted.jpg');
 	background-repeat: repeat-x;
 }
 
@@ -25,12 +25,14 @@ body {
 	height: 300px;
 	border: solid 1px #000;
 	border-radius: 4px;
+
 }
 
 h1 {
 	
 
 	font-size: 1.5em;
+	text-align: justify;
 /*
 	font-family: 'Stardos Stencil', cursive;
 */
@@ -39,8 +41,17 @@ h1 {
 /*h1 { font-family: ‘Metrophobic’, Arial, serif; font-weight: 400; }*/
 
 .fb-page {
-	border-radius: 5px;
 	width: 100%;
 	
 }
 
+.slick-slider {
+	padding-left: 0px;
+	margin-left: 0px;
+	box-shadow: 10px 10px 5px #888888;
+	border-radius: 4px;
+}
+
+.slick-slide {
+	padding-left: 10px;
+}
